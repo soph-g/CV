@@ -18,7 +18,7 @@ Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.co
 
 I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
 
-As a developer this experience enables me to spot and resolve issues before they impact the user experience. For example, during the development of Quizzbuzz I identified that if a user left a multiplayer game, any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended and gave them the option to start a new game.
+As a developer this experience enables me to spot and resolve issues before they impact the user experience. For example during the development of the multiplayer game Quizzbuzz at Makers Academy, I identified that if a user left a game any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, and gave them the option to start a new game.
 
 #### Analysis
 
