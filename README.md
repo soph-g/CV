@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](http://sophgill.wordpress.com)
 
-I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but have switched to using my analysis and problem solving skills to make stuff.
+I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
 
   I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves agile practices as much as it loves going the extra mile to make people's lives better.
 
@@ -18,13 +18,13 @@ Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.co
 
 I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
 
-As a developer this experience enables me to identify potential problems before they arise. For example, during the development of Quizzbuzz I identified that if a user left a multiplayer game, any remaining players would be stuck on the current question. To resolve this I suggested that the back end listened for a socket disconnection and immediately broadcast a 'player left' message to the channel in this event. This allowed us to notify the remaining players that the game had ended.
+As a developer this experience enables me to spot and resolve issues before they impact the user experience. For example, during the development of Quizzbuzz I identified that if a user left a multiplayer game, any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, giving them the option to restart play.
 
 #### Analysis
 
 My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process.
 
-I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. These skills served me well when I worked in three different sectors within 18 months (Banking, Charity and NHS), and I was able to understand the specific business problems and requirements of each organisation, to quickly gain the trust of project stakeholders.
+I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. These skills served me well when I worked in three different sectors within 18 months (Banking, Charity and NHS), and I was able to understand the specific business problems and requirements of each organisation to quickly gain the trust of project stakeholders.
 
 #### Additional Skills
 
