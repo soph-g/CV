@@ -18,7 +18,7 @@ Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.co
 
 I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
 
-As a developer this experience enables me to spot and resolve issues before they impact the user experience. For example, during the development of Quizzbuzz I identified that if a user left a multiplayer game, any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, giving them the option to restart play.
+As a developer this experience enables me to spot and resolve issues before they impact the user experience. For example, during the development of Quizzbuzz I identified that if a user left a multiplayer game, any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended and gave them the option to start a new game.
 
 #### Analysis
 
@@ -54,10 +54,10 @@ Project title  | Description  									| Development timeframe | Technologies | 
 *IT Delivery Manager*  
 *Business Analyst*
 
-**Close Brothers Treasury** (October 2006 to April 2009)   
+**Close Brothers Treasury** (April 2009 to October 2010)   
 *Operations Analyst*
 
-**Cattles** (start_date to end_date)   
+**Cattles** (October 2006 to April 2009)   
 *Junior Business Analyst*
 *Administrator*
 
@@ -79,6 +79,6 @@ A 16-week intensive development bootcamp, emphasising:
 
 ## Interests
 
-I direct theatre in my spare time, and have directed short plays performed at Lyric Hammersmith and St James Theatre.   
+I direct theatre in my spare time and have directed short plays performed at Lyric Hammersmith and St James Theatre.   
 Since working with mental health charity Mental Fight Club I now volunteer for them whenever I can, helping to set up their pop up cafe on Mondays and assist with other administration tasks.   
-You can find me at the gym most mornings, and I'm a regular at yoga.
+You can find me at the gym most mornings and I'm a regular at yoga.
