@@ -1,10 +1,10 @@
 ## Sophie Gill
 
-[Skills](##skills) | [Projects](##projects) | [Experience](##experience)| [Education](##education) | [Hobbies and Interests](##hobbies)
+[Skills](##Skills) | [Projects](##Projects) | [Experience](##Experience)| [Education](##Education) | [Hobbies and Interests](##Hobbies)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+##Skills
 
 #### This Skill
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Projects
+##Projects
 
 ## Experience
 
@@ -32,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)   
 *Your job title*
 
-## Education
+##Education
 
 #### Makers Academy (start_date to end_date)
 
@@ -52,6 +52,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 
-## Hobbies and Interests
-
- 
+##Hobbies and Interests
