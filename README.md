@@ -58,7 +58,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 *Operations Analyst*
 
 **Cattles** (October 2006 to April 2009)   
-*Junior Business Analyst*
+*Junior Business Analyst*  
 *Administrator*
 
 ## Education
