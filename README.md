@@ -4,7 +4,7 @@
 
 I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
 
-  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves extreme programming as much as it loves going the extra mile to make people's lives better.
+  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great softwarre as much as it loves going the extra mile to make people's lives better.
 
 ## Skills
 
@@ -55,7 +55,7 @@ Developing creative income streams to support the Dragon Cafe, a mental health p
 **Bank of England** (June 2011 to July 2014)  
 *IT Delivery Manager*  
 *Business Analyst*  
-Working on IT projects across the Bank of England, including managing the migrating of around 300 bespoke applications to Windows 7 from XP.
+Working on IT projects across the Bank of England, including managing the migration of around 300 bespoke applications to Windows 7 from XP.
 
 **Close Brothers Treasury** (April 2009 to October 2010)   
 *Operations Analyst*  
