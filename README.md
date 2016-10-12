@@ -6,6 +6,7 @@ I'm a former IT Project Manager and Business Analyst who has moved over to the d
 
   I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves extreme programming as much as it loves going the extra mile to make people's lives better.
 
+
 ## Skills
 
 #### Communication
@@ -14,17 +15,18 @@ Throughout my career I have acted as a translator between the technical and non-
 
 Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.com) about learning to code. I also prepared and delivered two workshops, mentored two juniors from the lower cohort, and rewrote a Makers Academy course material about sharing Github repositories to improve the process for future cohorts.
 
-#### Problem-solving
-
-I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
-
-As a developer this skill enables me to spot and resolve issues before they impact the user experience. For example during the development of the multiplayer game Quizzbuzz at Makers Academy, I identified that if a user left a game any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, and gave them the option to start a new game.
-
 #### Analysis
 
 My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process.
 
 I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. These skills served me well when I worked in three different sectors within 18 months (Banking, Charity and NHS), and I was able to understand the specific business problems and requirements of each organisation to quickly gain the trust of project stakeholders.
+
+#### Delivery
+
+I have led several technology projects, and am highly experienced in prioritising work, identifying the best approach to reach minimum viable product and iterative delivery.
+
+During the development of the multiplayer game Quizzbuzz for our final project at Makers Academy the team frequently commented on how my guidance kept them focussed on MVP. This focus meant we delivered MVP in just two days of development, and achieved version 4 two days later which included all features we had planned for our final presentation.
+
 
 #### Additional Skills
 
@@ -61,6 +63,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 *Junior Business Analyst*  
 *Administrator*
 
+
 ## Education
 
 #### Makers Academy (June 2016 to September 2016)
@@ -76,6 +79,7 @@ A 16-week intensive development bootcamp, emphasising:
 - Philosophy, BA (Hons), 2.1
 - Directed and acted in several plays at the Lakeside Theatre
 - Worked at the University Student's Union throughout my studies
+
 
 ## Interests
 
