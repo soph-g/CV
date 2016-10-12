@@ -4,7 +4,7 @@
 
 I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
 
-  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great softwarre as much as it loves going the extra mile to make people's lives better.
+  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great software as much as it loves going the extra mile to make people's lives better.
 
 
 ## Skills
