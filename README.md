@@ -4,7 +4,7 @@
 
 I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
 
-  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves extreme programming as much as it loves going the extra mile to make people's lives better.
+  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great softwarre as much as it loves going the extra mile to make people's lives better.
 
 
 ## Skills
@@ -48,20 +48,25 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 **Guy's and St Thomas' NHS Foundation Trust** (April 2015 to December 2015)    
 *Programme Manager (Digital Patient Noting)*  
+Leading the build and rollout of digital patient noting for Evelina Children's Hospital and St Thomas' Hospital.
 
 **Mental Fight Club** (September 2014 to March 2015)   
-*Creative Business Lead*
+*Creative Business Lead*  
+Developing creative income streams to support the Dragon Cafe, a mental health pop up social space.
 
 **Bank of England** (June 2011 to July 2014)  
 *IT Delivery Manager*  
-*Business Analyst*
+*Business Analyst*  
+Working on IT projects across the Bank of England, including managing the migration of around 300 bespoke applications to Windows 7 from XP.
 
 **Close Brothers Treasury** (April 2009 to October 2010)   
-*Operations Analyst*
+*Operations Analyst*  
+Completed business analysis for projects across Close Brothers Treasury, to identify and implement changes to IT systems and business processes.
 
 **Cattles** (October 2006 to April 2009)   
 *Junior Business Analyst*  
-*Administrator*
+*Administrator*  
+Completed business analysis for a range of business change projects within Welcome Finance, a subsidiary of Cattles plc.
 
 
 ## Education
