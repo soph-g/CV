@@ -73,7 +73,7 @@ Completed business analysis for a range of business change projects within Welco
 
 #### Makers Academy (June 2016 to September 2016)
 
-A 16-week intensive development bootcamp, emphasising:
+A 16-week intensive development bootcamp, emphasizing:
 - Pair-programming
 - Test Driven Development
 - Object Oriented Design
