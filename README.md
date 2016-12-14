@@ -11,7 +11,7 @@ I'm a former IT Project Manager and Business Analyst who has moved over to the d
 
 #### Communication
 
-Throughout my career I have acted as a translator between the technical and non-technical; whether as a Business Analyst writing business requirements, a Project Manager gaining agreement to deploy new software, or a Junior Developer writing code based on user stories.
+Throughout my career I have acted as a translator between the technical and non-technical; whether as a Business Analyst writing business requirements, a Project Manager gaining agreement to deploy new software, or a trainee Junior Developer writing code based on user stories.
 
 Whilst at Makers Academy I have maintained a [blog](http://sophgill.wordpress.com) about learning to code. I also prepared and delivered two workshops, mentored two juniors from the lower cohort, and rewrote a Makers Academy course material about sharing Github repositories to improve the process for future cohorts.
 
