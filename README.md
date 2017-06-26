@@ -4,7 +4,7 @@
 
 I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.  
 
-I'm currently an Associate Product Developer at AND Digital, my most recent project was a healthcare application MVP which utiltised fullstack JavaScript, blockchain and distributed web technologies. I contributed to the React front end and Express back end.
+I'm currently an Associate Product Developer at AND Digital, my most recent project was a healthcare application MVP that utilised full-stack JavaScript, blockchain and distributed web technologies. I contributed to the React front end and Express back end.
 
 
 ## Skills
@@ -25,7 +25,7 @@ I pick up new concepts with ease, and focus on asking the right questions to fur
 
 I have led several technology projects, and am highly experienced in prioritising work, identifying the best approach to reach minimum viable product and iterative delivery.
 
-During the development of the multiplayer game Quizzbuzz for our final project at Makers Academy the team frequently commented on how my guidance kept them focussed on MVP. This focus meant we delivered MVP in just two days of development, and achieved version 4 two days later which included all features we had planned for our final presentation.
+During the development of the multiplayer game Quizzbuzz for our final project at Makers Academy the team frequently commented on how my guidance kept them focused on MVP. This focus meant we delivered MVP in just two days of development, and achieved version 4 two days later which included all features we had planned for our final presentation.
 
 
 #### Additional Skills
