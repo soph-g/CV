@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](http://sophgill.wordpress.com)
 
-I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.
+I'm a former IT Project Manager and Business Analyst who has moved over to the dark side and learnt to code at Makers Academy. I've led tech projects at Guy's and St Thomas' Hospital and the Bank of England, but now want to use my analysis and problem solving skills to make stuff.  
 
-  I'm looking for a Full Stack Junior Developer role where I can continue to learn something new every day, in an organisation that loves developing great software as much as it loves going the extra mile to make people's lives better.
+I'm currently an Associate Product Developer at AND Digital, my most recent project was a healthcare application MVP which utiltised fullstack JavaScript, blockchain and distributed web technologies. I contributed to the React front end and Express back end.
 
 
 ## Skills
@@ -89,5 +89,5 @@ A 16-week intensive development bootcamp, emphasizing:
 ## Interests
 
 I direct theatre in my spare time and have directed short plays performed at Lyric Hammersmith and St James Theatre.   
-Since working with mental health charity Mental Fight Club I now volunteer for them whenever I can, helping to set up their pop up cafe on Mondays and assist with other administration tasks.   
+I play tag rugby with AND Digital, travel whenever I can and enjoy exploring London.   
 You can find me at the gym most mornings and I'm a regular at yoga.
